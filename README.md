@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Brian van den Berg
 - 👀 I’m interested in JavaScript, .NET Core MVC and Spicy Peppers 😋
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React / TypeScript
 - 📫 You can reach me on 'brian.vandenberg@bettyblocks.com'
 
 <!---
